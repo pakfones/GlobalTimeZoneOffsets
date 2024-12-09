@@ -1,0 +1,1002 @@
+{
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "primary_time_zone": "Asia/Kabul",
+        "unique_offsets": [16200]
+      },
+      {
+        "name": "Albania",
+        "primary_time_zone": "Europe/Tirane",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Algeria",
+        "primary_time_zone": "Africa/Algiers",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Andorra",
+        "primary_time_zone": "Europe/Andorra",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Angola",
+        "primary_time_zone": "Africa/Luanda",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "primary_time_zone": "America/Antigua",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Argentina",
+        "primary_time_zone": "America/Argentina/Buenos_Aires",
+        "unique_offsets": [-10800]
+      },
+      {
+        "name": "Armenia",
+        "primary_time_zone": "Asia/Yerevan",
+        "unique_offsets": [14400]
+      },
+      {
+        "name": "Australia",
+        "primary_time_zone": "Australia/Sydney",
+        "other_time_zones": ["Australia/Perth", "Australia/Darwin", "Australia/Brisbane"],
+        "unique_offsets": [36000, 28800, 32400]
+      },
+      {
+        "name": "Austria",
+        "primary_time_zone": "Europe/Vienna",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Azerbaijan",
+        "primary_time_zone": "Asia/Baku",
+        "unique_offsets": [14400]
+      },
+      {
+        "name": "Bahamas, The",
+        "primary_time_zone": "America/Nassau",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Bahrain",
+        "primary_time_zone": "Asia/Bahrain",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Bangladesh",
+        "primary_time_zone": "Asia/Dhaka",
+        "unique_offsets": [21600]
+      },
+      {
+        "name": "Barbados",
+        "primary_time_zone": "America/Barbados",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Belarus",
+        "primary_time_zone": "Europe/Minsk",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Belgium",
+        "primary_time_zone": "Europe/Brussels",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Belize",
+        "primary_time_zone": "America/Belize",
+        "unique_offsets": [-21600]
+      },
+      {
+        "name": "Benin",
+        "primary_time_zone": "Africa/Porto-Novo",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Bolivia",
+        "primary_time_zone": "America/La_Paz",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "primary_time_zone": "Europe/Sarajevo",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Botswana",
+        "primary_time_zone": "Africa/Gaborone",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Brazil",
+        "primary_time_zone": "America/Sao_Paulo",
+        "other_time_zones": ["America/Manaus", "America/Noronha"],
+        "unique_offsets": [-10800, -14400, -7200]
+      },
+      {
+        "name": "Brunei",
+        "primary_time_zone": "Asia/Brunei",
+        "unique_offsets": [28800]
+      },
+      {
+        "name": "Bulgaria",
+        "primary_time_zone": "Europe/Sofia",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Burkina Faso",
+        "primary_time_zone": "Africa/Ouagadougou",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Burma (Myanmar)",
+        "primary_time_zone": "Asia/Yangon",
+        "unique_offsets": [23400]
+      },
+      {
+        "name": "Burundi",
+        "primary_time_zone": "Africa/Bujumbura",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Cabo Verde",
+        "primary_time_zone": "Atlantic/Cape_Verde",
+        "unique_offsets": [-3600]
+      },
+      {
+        "name": "Cambodia",
+        "primary_time_zone": "Asia/Phnom_Penh",
+        "unique_offsets": [25200]
+      },
+      {
+        "name": "Cameroon",
+        "primary_time_zone": "Africa/Douala",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Canada",
+        "primary_time_zone": "America/Toronto",
+        "other_time_zones": ["America/Vancouver", "America/Winnipeg", "America/Edmonton", "America/St_Johns"],
+        "unique_offsets": [-18000, -28800, -21600, -25200, -12600]
+      },
+      {
+        "name": "Cayman Islands, The",
+        "primary_time_zone": "America/Cayman",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Central African Republic",
+        "primary_time_zone": "Africa/Bangui",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Chad",
+        "primary_time_zone": "Africa/Ndjamena",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Chile",
+        "primary_time_zone": "America/Santiago",
+        "other_time_zones": ["Pacific/Easter"],
+        "unique_offsets": [-10800, -21600]
+      },
+      {
+        "name": "China",
+        "primary_time_zone": "Asia/Shanghai",
+        "unique_offsets": [28800]
+      },
+      {
+        "name": "Colombia",
+        "primary_time_zone": "America/Bogota",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Comoros",
+        "primary_time_zone": "Indian/Comoro",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Congo Free State",
+        "primary_time_zone": "Africa/Kinshasa",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Cook Islands",
+        "primary_time_zone": "Pacific/Rarotonga",
+        "unique_offsets": [-36000]
+      },
+      {
+        "name": "Costa Rica",
+        "primary_time_zone": "America/Costa_Rica",
+        "unique_offsets": [-21600]
+      },
+      {
+        "name": "Cote d’Ivoire (Ivory Coast)",
+        "primary_time_zone": "Africa/Abidjan",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Croatia",
+        "primary_time_zone": "Europe/Zagreb",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Cuba",
+        "primary_time_zone": "America/Havana",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Cyprus",
+        "primary_time_zone": "Asia/Nicosia",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Czechia",
+        "primary_time_zone": "Europe/Prague",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "primary_time_zone": "Africa/Kinshasa",
+        "other_time_zones": ["Africa/Lubumbashi"],
+        "unique_offsets": [3600, 7200]
+      },
+      {
+        "name": "Denmark",
+        "primary_time_zone": "Europe/Copenhagen",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Djibouti",
+        "primary_time_zone": "Africa/Djibouti",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Dominica",
+        "primary_time_zone": "America/Dominica",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Dominican Republic",
+        "primary_time_zone": "America/Santo_Domingo",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "East Germany (German Democratic Republic)",
+        "primary_time_zone": "Europe/Berlin",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Ecuador",
+        "primary_time_zone": "America/Guayaquil",
+        "other_time_zones": ["Pacific/Galapagos"],
+        "unique_offsets": [-18000, -21600]
+      },
+      {
+        "name": "Egypt",
+        "primary_time_zone": "Africa/Cairo",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "El Salvador",
+        "primary_time_zone": "America/El_Salvador",
+        "unique_offsets": [-21600]
+      },
+      {
+        "name": "Equatorial Guinea",
+        "primary_time_zone": "Africa/Malabo",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Eritrea",
+        "primary_time_zone": "Africa/Asmara",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Estonia",
+        "primary_time_zone": "Europe/Tallinn",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Eswatini",
+        "primary_time_zone": "Africa/Mbabane",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Ethiopia",
+        "primary_time_zone": "Africa/Addis_Ababa",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Fiji",
+        "primary_time_zone": "Pacific/Fiji",
+        "unique_offsets": [43200]
+      },
+      {
+        "name": "Finland",
+        "primary_time_zone": "Europe/Helsinki",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "France",
+        "primary_time_zone": "Europe/Paris",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Gabon",
+        "primary_time_zone": "Africa/Libreville",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Gambia, The",
+        "primary_time_zone": "Africa/Banjul",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Georgia",
+        "primary_time_zone": "Asia/Tbilisi",
+        "unique_offsets": [14400]
+      },
+      {
+        "name": "Germany",
+        "primary_time_zone": "Europe/Berlin",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Ghana",
+        "primary_time_zone": "Africa/Accra",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Greece",
+        "primary_time_zone": "Europe/Athens",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Grenada",
+        "primary_time_zone": "America/Grenada",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Guatemala",
+        "primary_time_zone": "America/Guatemala",
+        "unique_offsets": [-21600]
+      },
+      {
+        "name": "Guinea",
+        "primary_time_zone": "Africa/Conakry",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Guinea-Bissau",
+        "primary_time_zone": "Africa/Bissau",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Guyana",
+        "primary_time_zone": "America/Guyana",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Haiti",
+        "primary_time_zone": "America/Port-au-Prince",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Holy See",
+        "primary_time_zone": "Europe/Vatican",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Honduras",
+        "primary_time_zone": "America/Tegucigalpa",
+        "unique_offsets": [-21600]
+      },
+      {
+        "name": "Hungary",
+        "primary_time_zone": "Europe/Budapest",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Iceland",
+        "primary_time_zone": "Atlantic/Reykjavik",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "India",
+        "primary_time_zone": "Asia/Kolkata",
+        "unique_offsets": [19800]
+      },
+      {
+        "name": "Indonesia",
+        "primary_time_zone": "Asia/Jakarta",
+        "other_time_zones": ["Asia/Makassar", "Asia/Jayapura"],
+        "unique_offsets": [25200, 28800, 32400]
+      },
+      {
+        "name": "Iran",
+        "primary_time_zone": "Asia/Tehran",
+        "unique_offsets": [12600]
+      },
+      {
+        "name": "Iraq",
+        "primary_time_zone": "Asia/Baghdad",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Ireland",
+        "primary_time_zone": "Europe/Dublin",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Israel",
+        "primary_time_zone": "Asia/Jerusalem",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Italy",
+        "primary_time_zone": "Europe/Rome",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Jamaica",
+        "primary_time_zone": "America/Jamaica",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Japan",
+        "primary_time_zone": "Asia/Tokyo",
+        "unique_offsets": [32400]
+      },
+      {
+        "name": "Jordan",
+        "primary_time_zone": "Asia/Amman",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Kazakhstan",
+        "primary_time_zone": "Asia/Almaty",
+        "other_time_zones": ["Asia/Aqtau"],
+        "unique_offsets": [21600, 18000]
+      },
+      {
+        "name": "Kenya",
+        "primary_time_zone": "Africa/Nairobi",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Kiribati",
+        "primary_time_zone": "Pacific/Tarawa",
+        "other_time_zones": ["Pacific/Enderbury", "Pacific/Kiritimati"],
+        "unique_offsets": [43200, 46800, 50400]
+      },
+      {
+        "name": "Korea",
+        "primary_time_zone": "Asia/Seoul",
+        "unique_offsets": [32400]
+      },
+      {
+        "name": "Kosovo",
+        "primary_time_zone": "Europe/Belgrade",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Kuwait",
+        "primary_time_zone": "Asia/Kuwait",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Kyrgyzstan",
+        "primary_time_zone": "Asia/Bishkek",
+        "unique_offsets": [21600]
+      },
+      {
+        "name": "Laos",
+        "primary_time_zone": "Asia/Vientiane",
+        "unique_offsets": [25200]
+      },
+      {
+        "name": "Latvia",
+        "primary_time_zone": "Europe/Riga",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Lebanon",
+        "primary_time_zone": "Asia/Beirut",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Lesotho",
+        "primary_time_zone": "Africa/Maseru",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Liberia",
+        "primary_time_zone": "Africa/Monrovia",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Libya",
+        "primary_time_zone": "Africa/Tripoli",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Liechtenstein",
+        "primary_time_zone": "Europe/Vaduz",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Lithuania",
+        "primary_time_zone": "Europe/Vilnius",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Luxembourg",
+        "primary_time_zone": "Europe/Luxembourg",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Madagascar",
+        "primary_time_zone": "Indian/Antananarivo",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Malawi",
+        "primary_time_zone": "Africa/Blantyre",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Malaysia",
+        "primary_time_zone": "Asia/Kuala_Lumpur",
+        "unique_offsets": [28800]
+      },
+      {
+        "name": "Maldives",
+        "primary_time_zone": "Indian/Maldives",
+        "unique_offsets": [18000]
+      },
+      {
+        "name": "Mali",
+        "primary_time_zone": "Africa/Bamako",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Malta",
+        "primary_time_zone": "Europe/Malta",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Marshall Islands",
+        "primary_time_zone": "Pacific/Majuro",
+        "unique_offsets": [43200]
+      },
+      {
+        "name": "Mauritania",
+        "primary_time_zone": "Africa/Nouakchott",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Mauritius",
+        "primary_time_zone": "Indian/Mauritius",
+        "unique_offsets": [14400]
+      },
+      {
+        "name": "Mexico",
+        "primary_time_zone": "America/Mexico_City",
+        "other_time_zones": ["America/Cancun", "America/Hermosillo", "America/Tijuana"],
+        "unique_offsets": [-21600, -18000, -25200, -28800]
+      },
+      {
+        "name": "Micronesia",
+        "primary_time_zone": "Pacific/Pohnpei",
+        "unique_offsets": [39600]
+      },
+      {
+        "name": "Moldova",
+        "primary_time_zone": "Europe/Chisinau",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Monaco",
+        "primary_time_zone": "Europe/Monaco",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Mongolia",
+        "primary_time_zone": "Asia/Ulaanbaatar",
+        "unique_offsets": [28800]
+      },
+      {
+        "name": "Montenegro",
+        "primary_time_zone": "Europe/Podgorica",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Morocco",
+        "primary_time_zone": "Africa/Casablanca",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Mozambique",
+        "primary_time_zone": "Africa/Maputo",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Namibia",
+        "primary_time_zone": "Africa/Windhoek",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Nauru",
+        "primary_time_zone": "Pacific/Nauru",
+        "unique_offsets": [43200]
+      },
+      {
+        "name": "Nepal",
+        "primary_time_zone": "Asia/Kathmandu",
+        "unique_offsets": [20700]
+      },
+      {
+        "name": "Netherlands",
+        "primary_time_zone": "Europe/Amsterdam",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "New Zealand",
+        "primary_time_zone": "Pacific/Auckland",
+        "unique_offsets": [43200]
+      },
+      {
+        "name": "Nicaragua",
+        "primary_time_zone": "America/Managua",
+        "unique_offsets": [-21600]
+      },
+      {
+        "name": "Niger",
+        "primary_time_zone": "Africa/Niamey",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Nigeria",
+        "primary_time_zone": "Africa/Lagos",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "North Macedonia",
+        "primary_time_zone": "Europe/Skopje",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Norway",
+        "primary_time_zone": "Europe/Oslo",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Oman",
+        "primary_time_zone": "Asia/Muscat",
+        "unique_offsets": [14400]
+      },
+      {
+        "name": "Pakistan",
+        "primary_time_zone": "Asia/Karachi",
+        "unique_offsets": [18000]
+      },
+      {
+        "name": "Palau",
+        "primary_time_zone": "Pacific/Palau",
+        "unique_offsets": [32400]
+      },
+      {
+        "name": "Panama",
+        "primary_time_zone": "America/Panama",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Papua New Guinea",
+        "primary_time_zone": "Pacific/Port_Moresby",
+        "unique_offsets": [36000]
+      },
+      {
+        "name": "Paraguay",
+        "primary_time_zone": "America/Asuncion",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Peru",
+        "primary_time_zone": "America/Lima",
+        "unique_offsets": [-18000]
+      },
+      {
+        "name": "Philippines",
+        "primary_time_zone": "Asia/Manila",
+        "unique_offsets": [28800]
+      },
+      {
+        "name": "Poland",
+        "primary_time_zone": "Europe/Warsaw",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Portugal",
+        "primary_time_zone": "Europe/Lisbon",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Qatar",
+        "primary_time_zone": "Asia/Qatar",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Romania",
+        "primary_time_zone": "Europe/Bucharest",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Russia",
+        "primary_time_zone": "Europe/Moscow",
+        "other_time_zones": ["Asia/Yekaterinburg", "Asia/Novosibirsk", "Asia/Vladivostok"],
+        "unique_offsets": [10800, 18000, 25200, 36000]
+      },
+      {
+        "name": "Rwanda",
+        "primary_time_zone": "Africa/Kigali",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "primary_time_zone": "America/St_Kitts",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Saint Lucia",
+        "primary_time_zone": "America/St_Lucia",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "primary_time_zone": "America/St_Vincent",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Samoa",
+        "primary_time_zone": "Pacific/Apia",
+        "unique_offsets": [46800]
+      },
+      {
+        "name": "San Marino",
+        "primary_time_zone": "Europe/San_Marino",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Sao Tome and Principe",
+        "primary_time_zone": "Africa/Sao_Tome",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Saudi Arabia",
+        "primary_time_zone": "Asia/Riyadh",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Senegal",
+        "primary_time_zone": "Africa/Dakar",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Serbia",
+        "primary_time_zone": "Europe/Belgrade",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Seychelles",
+        "primary_time_zone": "Indian/Mahe",
+        "unique_offsets": [14400]
+      },
+      {
+        "name": "Sierra Leone",
+        "primary_time_zone": "Africa/Freetown",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Singapore",
+        "primary_time_zone": "Asia/Singapore",
+        "unique_offsets": [28800]
+      },
+      {
+        "name": "Slovakia",
+        "primary_time_zone": "Europe/Bratislava",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Slovenia",
+        "primary_time_zone": "Europe/Ljubljana",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Solomon Islands",
+        "primary_time_zone": "Pacific/Guadalcanal",
+        "unique_offsets": [39600]
+      },
+      {
+        "name": "Somalia",
+        "primary_time_zone": "Africa/Mogadishu",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "South Africa",
+        "primary_time_zone": "Africa/Johannesburg",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "South Sudan",
+        "primary_time_zone": "Africa/Juba",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Spain",
+        "primary_time_zone": "Europe/Madrid",
+        "other_time_zones": ["Africa/Ceuta", "Atlantic/Canary"],
+        "unique_offsets": [3600, 0]
+      },
+      {
+        "name": "Sri Lanka",
+        "primary_time_zone": "Asia/Colombo",
+        "unique_offsets": [19800]
+      },
+      {
+        "name": "Sudan",
+        "primary_time_zone": "Africa/Khartoum",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Suriname",
+        "primary_time_zone": "America/Paramaribo",
+        "unique_offsets": [-10800]
+      },
+      {
+        "name": "Sweden",
+        "primary_time_zone": "Europe/Stockholm",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Switzerland",
+        "primary_time_zone": "Europe/Zurich",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Syria",
+        "primary_time_zone": "Asia/Damascus",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Taiwan",
+        "primary_time_zone": "Asia/Taipei",
+        "unique_offsets": [28800]
+      },
+      {
+        "name": "Tajikistan",
+        "primary_time_zone": "Asia/Dushanbe",
+        "unique_offsets": [18000]
+      },
+      {
+        "name": "Tanzania",
+        "primary_time_zone": "Africa/Dar_es_Salaam",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Thailand",
+        "primary_time_zone": "Asia/Bangkok",
+        "unique_offsets": [25200]
+      },
+      {
+        "name": "Timor-Leste",
+        "primary_time_zone": "Asia/Dili",
+        "unique_offsets": [32400]
+      },
+      {
+        "name": "Togo",
+        "primary_time_zone": "Africa/Lome",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Tonga",
+        "primary_time_zone": "Pacific/Tongatapu",
+        "unique_offsets": [46800]
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "primary_time_zone": "America/Port_of_Spain",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Tunisia",
+        "primary_time_zone": "Africa/Tunis",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Turkey",
+        "primary_time_zone": "Europe/Istanbul",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Turkmenistan",
+        "primary_time_zone": "Asia/Ashgabat",
+        "unique_offsets": [18000]
+      },
+      {
+        "name": "Tuvalu",
+        "primary_time_zone": "Pacific/Funafuti",
+        "unique_offsets": [43200]
+      },
+      {
+        "name": "Uganda",
+        "primary_time_zone": "Africa/Kampala",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Ukraine",
+        "primary_time_zone": "Europe/Kiev",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "United Arab Emirates",
+        "primary_time_zone": "Asia/Dubai",
+        "unique_offsets": [14400]
+      },
+      {
+        "name": "United Kingdom",
+        "primary_time_zone": "Europe/London",
+        "unique_offsets": [0]
+      },
+      {
+        "name": "Uruguay",
+        "primary_time_zone": "America/Montevideo",
+        "unique_offsets": [-10800]
+      },
+      {
+        "name": "Uzbekistan",
+        "primary_time_zone": "Asia/Tashkent",
+        "unique_offsets": [18000]
+      },
+      {
+        "name": "Vanuatu",
+        "primary_time_zone": "Pacific/Efate",
+        "unique_offsets": [39600]
+      },
+      {
+        "name": "Vatican City",
+        "primary_time_zone": "Europe/Vatican",
+        "unique_offsets": [3600]
+      },
+      {
+        "name": "Venezuela",
+        "primary_time_zone": "America/Caracas",
+        "unique_offsets": [-14400]
+      },
+      {
+        "name": "Vietnam",
+        "primary_time_zone": "Asia/Ho_Chi_Minh",
+        "unique_offsets": [25200]
+      },
+      {
+        "name": "Yemen",
+        "primary_time_zone": "Asia/Aden",
+        "unique_offsets": [10800]
+      },
+      {
+        "name": "Zambia",
+        "primary_time_zone": "Africa/Lusaka",
+        "unique_offsets": [7200]
+      },
+      {
+        "name": "Zimbabwe",
+        "primary_time_zone": "Africa/Harare",
+        "unique_offsets": [7200]
+      }
+    ]
+}
+  
