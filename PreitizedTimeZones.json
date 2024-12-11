@@ -1,0 +1,42 @@
+{
+    "countries": [
+          {
+            "name": "Pakistan",
+            "primary_time_zone": "Asia/Karachi",
+            "unique_offsets": [18000]
+          },
+          {
+            "name": "India",
+            "primary_time_zone": "Asia/Kolkata",
+            "unique_offsets": [19800]
+          },
+          {
+            "name": "Iran",
+            "primary_time_zone": "Asia/Tehran",
+            "unique_offsets": [12600]
+          },
+          {
+            "name": "Saudi Arabia",
+            "primary_time_zone": "Asia/Riyadh",
+            "unique_offsets": [10800]
+          },
+          {
+            "name": "United Arab Emirates",
+            "primary_time_zone": "Asia/Dubai",
+            "unique_offsets": [14400]
+          },
+          {
+            "name": "United Kingdom",
+            "primary_time_zone": "Europe/London",
+            "unique_offsets": [0]
+          },
+          {
+            "name": "United States",
+            "primary_time_zone": "America/New_York",
+            "other_time_zones": ["America/Chicago", "America/Denver", "America/Los_Angeles"],
+            "unique_offsets": [-18000, -21600, -25200, -28800]
+        }
+
+    ]
+}
+      
