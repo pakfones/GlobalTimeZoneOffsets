@@ -1,22 +1,10 @@
 {
-    "countries": [
-          {
-            "name": "Pakistan",
-            "primary_time_zone": "Asia/Karachi",
-            "unique_offsets": [18000]
-          },
-          {
-            "name": "United Kingdom",
-            "primary_time_zone": "Europe/London",
-            "unique_offsets": [0]
-          },
-          {
-            "name": "United States",
-            "primary_time_zone": "America/New_York",
-            "other_time_zones": ["America/Chicago", "America/Denver", "America/Los_Angeles"],
-            "unique_offsets": [-18000, -21600, -25200, -28800]
-        }
-
+    "timezones": [
+        {"timezone": "Asia/Karachi", "offset": 18000},
+        {"timezone": "Europe/London", "offset": 0},
+        {"timezone": "America/New_York", "offset": -18000},
+        {"timezone": "America/Chicago", "offset": -21600},
+        {"timezone": "America/Denver", "offset": -25200},
+        {"timezone": "America/Los_Angeles", "offset": -28800}
     ]
 }
-      
